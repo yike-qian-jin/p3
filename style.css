@@ -234,8 +234,11 @@ footer{
     }
 }
 @media  (max-width:380px) {
+    .footer{
+        margin-top: 20px;
+    }
     .download__button, .header__button{
-        margin: 10px 0 10px 40px;
+        margin: 10px 0 10px 50px;
         width: 220px;
     }
     .main__1__img, .main__2__img{
