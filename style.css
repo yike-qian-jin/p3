@@ -235,7 +235,7 @@ footer{
 }
 @media  (max-width:380px) {
     footer{
-        margin-top: 20px;
+        margin-top: 50px;
     }
     .download__button, .header__button{
         margin: 10px 0 10px 50px;
